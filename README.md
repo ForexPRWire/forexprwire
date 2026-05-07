@@ -53,7 +53,7 @@ https://forexprwire.com/
 ## Internal Resources
 
 - [Services](services.md)
-
+- [Official Social Profiles](social-profiles.md)
 ## About Forex PR Wire
 
 Forex PR Wire helps financial businesses, forex brokers, fintech startups, and crypto brands gain exposure through strategic press release distribution and digital media visibility.
