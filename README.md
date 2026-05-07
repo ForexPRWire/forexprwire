@@ -50,6 +50,9 @@ https://forexprwire.com/
 - Financial digital marketing resources
 
 ---
+## Internal Resources
+
+- [Services](services.md)
 
 ## About Forex PR Wire
 
